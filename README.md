@@ -91,11 +91,13 @@ Key fields:
 
 ### Executive Overview
 
-![Executive Dashboard](images/executive_dashboard.png)
+<img width="1210" height="751" alt="image" src="https://github.com/user-attachments/assets/d484e2c8-2d4d-42b4-861c-a8a350535e03" />
+
 
 ### Churn Risk Analysis
 
-![Churn Analysis](images/churn_analysis.png)
+<img width="1212" height="750" alt="image" src="https://github.com/user-attachments/assets/547ce8d6-0373-412a-8b87-06dd952c88fd" />
+
 
 ---
 
